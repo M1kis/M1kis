@@ -17,7 +17,7 @@ Not yet, I am looking for the opportunity to demonstrate my skills and commitmen
 #### Programming Languages
 + JavaScript, CSharp, Python.
 #### Front-End 
-+ React (Improving my skills), Bootstrap, CSS, HTML 5.
++ [ React, Node.js, Typescript, Tailwind CSS ], [ HTML, Javascript, CSS ]
 #### Back-End
 + Spring.
 #### Mobile App Development
